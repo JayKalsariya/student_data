@@ -7,6 +7,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        scaffoldBackgroundColor: const Color(0xFFA5DD9B),
+        colorSchemeSeed: const Color(0xFFC5EBAA),
+      ),
       routes: Routes.routes,
     );
   }
