@@ -46,3 +46,8 @@ This application aims to simplify student data management for educational instit
 <img src="https://github.com/JayKalsariya/student_data/assets/141019761/0bf60636-1372-4935-a110-f6b73cd39fdf" width = "250">
 
 <img src="https://github.com/JayKalsariya/student_data/assets/141019761/ba11549d-cb64-49f2-8979-0cb44c4e7d3c" width = "250">
+
+## 'Screen Recording'
+
+https://github.com/JayKalsariya/student_data/assets/141019761/84675879-fe51-4721-bb3b-18a916e0aa11
+
